@@ -13,7 +13,7 @@ Uma API simples para gerenciamento de tarefas, desenvolvida em Java com Spring B
 
 ## Tecnologias Utilizadas
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="images/java.png" alt="Logo Java" width="150"/>
   </div>
