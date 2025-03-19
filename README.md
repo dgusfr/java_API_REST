@@ -33,7 +33,7 @@ Esta API permite o gerenciamento simples de tarefas, onde é possível adicionar
 - **Adicionar Tarefa**: Adiciona uma nova tarefa ao sistema.
 - **Remover Todas as Tarefas**: Apaga todas as tarefas registradas.
 
-## Documentação
+# Documentação
 
 ### Endpoints da API
 
