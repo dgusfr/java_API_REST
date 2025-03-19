@@ -46,6 +46,7 @@ Esta API permite o gerenciamento simples de tarefas, onde é possível adicionar
 ```
 
 <br>
+---
 
 #### **2. Adicionar uma nova tarefa**
 **Método:** `POST`  
