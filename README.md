@@ -45,6 +45,8 @@ Esta API permite o gerenciamento simples de tarefas, onde é possível adicionar
 [ "Tarefa 1", "Tarefa 2" ]
 ```
 
+<br>
+
 #### **2. Adicionar uma nova tarefa**
 **Método:** `POST`  
 **URL:** `/api/tasks`  
