@@ -18,7 +18,7 @@ Uma API simples para gerenciamento de tarefas, desenvolvida em Java com Spring B
     <img src="images/java.png" alt="Logo Java" width="150"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="images/springboot.png" alt="Logo Spring Boot" width="110"/>
+    <img src="images/springboot.png" alt="Logo Spring Boot" width="105"/>
   </div>
 </div>
 
