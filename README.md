@@ -54,6 +54,9 @@ Esta API permite o gerenciamento simples de tarefas, onde é possível adicionar
 ```json
 "Nova tarefa"
 ```
+
+<br>
+
 **Resposta:** `200 OK`
 
 #### **3. Deletar todas as tarefas**
