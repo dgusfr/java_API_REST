@@ -66,6 +66,8 @@ Esta API permite o gerenciamento simples de tarefas, onde é possível adicionar
 **URL:** `/api/tasks`  
 **Resposta:** `200 OK`
 
+<br>
+
 ## Autor
 
 Desenvolvido por Diego Franco
